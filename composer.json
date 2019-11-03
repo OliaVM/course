@@ -1,0 +1,19 @@
+{
+    "name": "oliavm/course",
+    "description": "Average course of valute",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "oliavm",
+            "email": "oliamo2016@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {"oliavm\\Course\\": "src/"}
+    },
+    "require": {
+        "oliavm/course": "dev-master"
+    }
+}
